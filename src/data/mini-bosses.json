@@ -1089,7 +1089,7 @@
           "type": "sceneBool"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "The Marrow: At the highest point in The Marrow, attached to the top left wall. Only appears after beating Lace in the Cradle.",
           "flag": "Shell Fossil Mimic AppearVariant",
           "icon": "mini-bosses/Shardillard.png",
@@ -1109,7 +1109,7 @@
           "type": "sceneBool"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "The Marrow: In the long room to the right of the Bellway bench, to the left of a magnetite platform.",
           "flag": "Shell Fossil Mimic",
           "icon": "mini-bosses/Shardillard.png",
@@ -1129,7 +1129,7 @@
           "type": "sceneBool"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "Far Fields: On the upper side of a spinal bone platform. If the spinal bone is broken go straight up. Otherwise, it is accessible by coming around top, from the direction of the Weavenest to the right.",
           "flag": "Shell Fossil Mimic",
           "icon": "mini-bosses/Shardillard.png",
