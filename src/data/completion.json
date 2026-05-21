@@ -119,7 +119,7 @@
           "type": "relic"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "Bottom right of the Slab. Found on a corpse.",
           "flag": "Weaver Totem Slab_Bottom",
           "icon": "completion/Weaver_Effigy.png",
