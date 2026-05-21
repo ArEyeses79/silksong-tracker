@@ -744,7 +744,7 @@
       "description": "Deliver rare and precious items to recipients across Pharloom.",
       "items": [
         {
-          "act": 1,
+          "act": 2,
           "description": "Deliver supplies to the fixer Flick in Bone Bottom.",
           "flag": "Courier Delivery Bonebottom",
           "icon": "quest/Delivery.png",
@@ -755,7 +755,7 @@
           "type": "quest"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "Deliver supplies to Mort in Pilgrim's Rest.",
           "flag": "Courier Delivery Pilgrims Rest",
           "icon": "quest/Delivery.png",
@@ -766,7 +766,7 @@
           "type": "quest"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "Deliver the Queen's Egg to Styx of Sinner's Road.",
           "flag": "Courier Delivery Dustpens Slave",
           "icon": "quest/Delivery.png",
