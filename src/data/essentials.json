@@ -1196,7 +1196,7 @@
           "type": "flag"
         },
         {
-          "act": 1,
+          "act": 2,
           "category": "Fleas",
           "description": "Bilewater. Located above of the secret bench room in Bilewater.",
           "flag": "SavedFlea_Shadow_10",
