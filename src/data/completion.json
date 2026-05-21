@@ -1910,7 +1910,7 @@
           "type": "flag"
         },
         {
-          "act": 2,
+          "act": 1,
           "description": "Purchased from Shakra. Marks the mysterious transport tubes of Pharloom.",
           "flag": "hasPinTube",
           "icon": "completion/Ventrica_Pins.png",
