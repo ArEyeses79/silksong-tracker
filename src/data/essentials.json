@@ -430,7 +430,7 @@
           "type": "sceneBool"
         },
         {
-          "act": 2,
+          "act": 1,
           "description": "Above the Grand Bellway, accessed from Exhaust Organ.",
           "flag": "Collectable Item Pickup",
           "icon": "icons/Memory_Locket.png",

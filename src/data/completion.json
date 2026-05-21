@@ -2048,7 +2048,7 @@
           "type": "flag"
         },
         {
-          "act": 2,
+          "act": 1,
           "description": "Unlocked after paying Rosaries.",
           "flag": "UnlockedCityStation",
           "icon": "completion/Bellways.png",
@@ -2142,7 +2142,7 @@
           "type": "flag"
         },
         {
-          "act": 2,
+          "act": 1,
           "description": "Unlocked after paying Rosaries.",
           "flag": "UnlockedCityBellwayTube",
           "icon": "completion/Tubeways(ventrica)Map.png",
