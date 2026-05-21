@@ -1516,7 +1516,7 @@
           "type": "flag"
         },
         {
-          "act": 2,
+          "act": 1,
           "description": "Purchased from Shakra. The jagged crest looming over all of Pharloom. Its whipping winds and bitter cold would pierce the strongest shell.",
           "flag": "HasPeakMap",
           "icon": "completion/Mount_Fay_Map.png",
