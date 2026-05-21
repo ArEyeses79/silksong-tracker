@@ -1329,7 +1329,7 @@
           "type": "flag"
         },
         {
-          "act": 1,
+          "act": 2,
           "category": "Fleas",
           "description": "The Slab.",
           "flag": "SavedFlea_Slab_06",
