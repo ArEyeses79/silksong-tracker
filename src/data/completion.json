@@ -1338,7 +1338,7 @@
           "type": "sceneBool"
         },
         {
-          "act": 2,
+          "act": 1,
           "description": "The Cradle, below the Terminus.",
           "flag": "Silk Grub Large Cocoon",
           "icon": "completion/Silkeater.png",
