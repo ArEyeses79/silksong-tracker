@@ -2543,7 +2543,7 @@
           "type": "tool"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "Purchased from Grindle for 350 Rosaries.",
           "flag": "Thief Charm",
           "icon": "icons/Thiefs_Mark.png",
