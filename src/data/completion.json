@@ -1218,7 +1218,7 @@
           "type": "sceneBool"
         },
         {
-          "act": 1,
+          "act": 2,
           "description": "Deep Docks, in the room southeast of the sauna bench.",
           "flag": "Silk Grub Large Cocoon",
           "icon": "completion/Silkeater.png",
