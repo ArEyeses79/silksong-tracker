@@ -1232,7 +1232,7 @@
           "type": "anyOf"
         },
         {
-          "act": 2,
+          "act": 1,
           "description": "Reward for completing Nuu's Wish: Bugs of Pharloom.",
           "flag": "Journal",
           "icon": "icons/Tool_Pouch.png",
