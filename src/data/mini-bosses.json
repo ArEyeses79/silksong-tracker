@@ -19,6 +19,7 @@
             "y": 0.678,
             "zoom": 2.0
           },
+          "missable": true,
           "showOnMap": true,
           "type": "boss"
         },
